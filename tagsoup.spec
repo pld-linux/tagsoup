@@ -1,12 +1,12 @@
 Summary:	A SAX-compliant parser written in Java that parses HTML as it is found in the wild: nasty and brutish
 Summary(pl.UTF-8):	Zgodny z SAX, napisany w Javie analizator HTML-a występującego w rzeczywistości
 Name:		tagsoup
-Version:	1.0.1
+Version:	1.2
 Release:	0.1
 Epoch:		0
 License:	GPL
 Source0:	http://home.ccil.org/~cowan/XML/tagsoup/%{name}-%{version}-src.zip
-# Source0-md5:	35088ab782cb31bbf63e745302379fa5
+# Source0-md5:	c590d90cd22a6ecdb14ccc185beba5b4
 Group:		Applications/Text
 URL:		http://mercury.ccil.org/~cowan/XML/tagsoup/
 BuildRequires:	ant
