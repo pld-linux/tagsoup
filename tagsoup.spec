@@ -13,6 +13,7 @@ BuildRequires:	ant
 BuildRequires:	ant-trax
 BuildRequires:	jpackage-utils
 BuildRequires:	rpmbuild(macros) >= 1.300
+BuildRequires:	unzip
 BuildRequires:	xalan-j
 Requires:	jpackage-utils >= 0:1.6
 BuildArch:	noarch
